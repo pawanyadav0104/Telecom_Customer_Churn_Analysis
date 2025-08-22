@@ -118,6 +118,6 @@ Feel free to fork this repo, create a branch, and submit a pull request if youâ€
 
 ðŸ‘¤ Your Name
 
-LinkedIn: www.linkedin.in.pawan0104
+LinkedIn: www.linkedin.com/in/pawan0104
 
 Email: yadavpawan8359@gmail.com
