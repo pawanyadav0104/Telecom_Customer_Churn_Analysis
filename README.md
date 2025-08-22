@@ -94,7 +94,13 @@ Open the ChrunAnalysis.pbix file in Power BI Desktop.
 
 Connect it with the dataset to explore the interactive dashboard.
 
-📸 Screenshots
+### 🔮 Prediction List of Customers  
+![Prediction List](https://github.com/pawanyadav0104/Telecom_Customer_Churn_Analysis/blob/main/predictionListOfCustomer.png?raw=true)
+
+### 📊 Power BI Dashboard – Main Page  
+![Power BI Dashboard](https://github.com/pawanyadav0104/Telecom_Customer_Churn_Analysis/blob/main/Main%20page.png?raw=true)
+
+---
 
 
 
